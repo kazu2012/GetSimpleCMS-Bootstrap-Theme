@@ -10,7 +10,6 @@ A theme for [GetSimple CMS](http://get-simple.info/) built on [Initializr](http:
 2.1.0.3 With [LESS](http://lesscss.org/) Support, you are able to download any "variables.less" from [Bootswatch](http://bootswatch.com/) and replace it in the /less/bootstrap folder to apply the new style.
 Replace the (less/bootstrap) variables.less file with a file from less/bootswatch folder and rename it to variables.less
 
-For beta theme check [Github](https://github.com/simondahla/GetSimpleCMS-Bootstrap-Theme)
 
 # License
 
@@ -18,4 +17,4 @@ Port under Attribution-ShareAlike 3.0 Unported [CC BY-SA 3.0](http://creativecom
 
 [Bootstrap](http://twitter.github.com/bootstrap/) 2.1.0 under [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Initializr by [Jonathan Verrecchia]((https://twitter.com/verekia))
+Initializr by [Jonathan Verrecchia](https://twitter.com/verekia)
